@@ -6,3 +6,6 @@ The first notebook covers basic Python usage.
 The second covers using the packages `xarray` to open and manipulate geospatial data, and `matplotlib` for plotting data.
 
 They should cover just enough to get you going on the notebooks in the `Challenges/` directory.
+
+
+If you have any questions about these introduction notebooks before the workshop then please email jonathan dot coney at noc dot ac dot uk.
